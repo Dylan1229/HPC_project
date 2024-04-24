@@ -1,0 +1,32 @@
+Running with 1 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (1)   6.612019
+--------------------------------
+Running with 2 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (2)   3.390086
+--------------------------------
+Running with 4 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (4)   2.150382
+--------------------------------
+Running with 8 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   1.523240
+--------------------------------
+Running with 16 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (16)   0.682975
+--------------------------------
+Running with 32 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (32)   0.588144
+--------------------------------
+Running with 64 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (64)   0.152117
+--------------------------------
+Running with 128 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (128)   0.049096
+--------------------------------

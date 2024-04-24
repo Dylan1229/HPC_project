@@ -1,0 +1,33 @@
+lscpu
+Running with 1 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (1)   4.877126
+--------------------------------
+Running with 2 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (2)   2.823249
+--------------------------------
+Running with 4 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (4)   1.758951
+--------------------------------
+Running with 8 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   0.874611
+--------------------------------
+Running with 16 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (16)   0.441410
+--------------------------------
+Running with 32 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (32)   0.239904
+--------------------------------
+Running with 64 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (64)   0.154546
+--------------------------------
+Running with 128 processes:
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (128)   0.047007
+--------------------------------

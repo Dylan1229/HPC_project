@@ -1,0 +1,24 @@
+Running with 1 processes:
+In 11.321830 seconds we found 50847534 primes less than or equal to 1000000000.
+--------------------------------
+Running with 2 processes:
+In 7.859995 seconds we found 50847534 primes less than or equal to 1000000000.
+--------------------------------
+Running with 4 processes:
+In 3.893439 seconds we found 50847534 primes less than or equal to 1000000000.
+--------------------------------
+Running with 8 processes:
+In 2.727603 seconds we found 50847534 primes less than or equal to 1000000000.
+--------------------------------
+Running with 16 processes:
+In 1.532226 seconds we found 50847534 primes less than or equal to 1000000000.
+--------------------------------
+Running with 32 processes:
+In 1.297754 seconds we found 50847534 primes less than or equal to 1000000000.
+--------------------------------
+Running with 64 processes:
+In 0.663702 seconds we found 50847534 primes less than or equal to 1000000000.
+--------------------------------
+Running with 128 processes:
+In 0.380856 seconds we found 50847534 primes less than or equal to 1000000000.
+--------------------------------
